@@ -19,6 +19,15 @@ It adds Razorpay for WooCommerce functionality to the WPGraphQL schema using Woo
 
 - Mutation **Create payment intent using rezorpay** with complex filtering options.
 
+## Configuration
+
+- Add your API key and secrets on  **wp-config.php**.
+
+```php
+    define('RAZORPAY_API_KEY', 'your_api_key_id');
+    define('RAZORPAY_API_SECRET', 'your_api_secrets');
+```
+
 
 ## Playground
 
