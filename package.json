@@ -1,0 +1,10 @@
+{
+  "name": "wp-graphql-razorpay",
+  "version": "1.0.0",
+  "description": "Razorpay Payment Gateway Integration for WooCommerce WPGraphQL server",
+  "main": "wp-graphql-razorpay.php",
+  "repository": "https://github.com/vinocrzy/wp-graphql-razorpay.git",
+  "author": "vinocrzy <vinoth.vinothkanna.kanna2@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
