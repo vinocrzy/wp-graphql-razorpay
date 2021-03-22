@@ -5,7 +5,7 @@
  * Author:            Vino Crazy
  * Author URI:        https://vinocrazy.com/
  * Domain Path:       /languages
- * Version:           0.1.0
+ * Version:           1.0.0
  * Requires PHP:      7.0
  * GitHub Plugin URI: https://github.com/vinocrzy/wp-graphql-woocommerce-gold-price
 */
